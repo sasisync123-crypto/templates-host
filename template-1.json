@@ -1,0 +1,84 @@
+{
+  "content": [
+    {
+      "id": "45512816",
+      "settings": {
+        "flex_direction": "row-reverse",
+        "content_width": "full",
+        "width": { "unit": "%", "size": 111.163 },
+        "min_height": { "unit": "px", "size": 0, "sizes": [] },
+        "_flex_size": "none",
+        "ekit_section_parallax_multi_items": [],
+        "ekit_all_conditions_list": [],
+        "ekit_cursor_text_label": "Elementskit Cursor",
+        "_element_width": "initial"
+      },
+      "elements": [
+        {
+          "id": "4658c501",
+          "settings": {
+            "ekit_all_conditions_list": [],
+            "ekit_adv_tooltip_content": "Tooltip Content.",
+            "ekit_cursor_text_label": "Elementskit Cursor",
+            "image": {
+              "url": "https://github.com/sasisync123-crypto/remote-work/raw/main/hero-five.png",
+              "id": "",
+              "size": "",
+              "source": "url"
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "image",
+          "elType": "widget"
+        },
+        {
+          "id": "1743fee5",
+          "settings": {
+            "ekit_heading_title": "Grow your {{report}}",
+            "show_title_border": "yes",
+            "title_float_left": "yes",
+            "ekit_heading_sub_title": "TIME HAS CHANGED",
+            "ekit_fancy_prefix_text": "Elementskit is ",
+            "ekit_fancy_text_lists": [
+              { "ekit_fancy_text": "Most", "_id": "a01a78d" },
+              { "ekit_fancy_text": "Popular", "_id": "bde0131" },
+              { "ekit_fancy_text": "Addon", "_id": "de54698" }
+            ],
+            "ekit_heading_title_secondary_bg_color_b": "#FF2E2E",
+            "sf_list_items": [
+              { "sf_list_text": "First SF item", "_id": "1d9f02f" },
+              { "sf_list_text": "Second exciting item", "_id": "17f6c9a" },
+              { "sf_list_text": "Third awesome item", "_id": "5f3b44a" }
+            ],
+            "One_ekit_btn_text": "Learn more ",
+            "Two_ekit_btn_text": "Learn more ",
+            "_element_width": "initial",
+            "_element_custom_width": {
+              "unit": "%",
+              "size": 46.826000000000001
+            },
+            "_flex_size": "none",
+            "ekit_all_conditions_list": [],
+            "ekit_adv_tooltip_content": "Tooltip Content.",
+            "ekit_cursor_text_label": "Elementskit Cursor",
+            "__globals__": {
+              "ekit_heading_title_secondary_bg_color": "globals/colors?id=accent"
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "sf-heading",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "TEMPLATE-1",
+  "type": "container", "categories": ["two"],
+  "thumbnail": "https://github.com/sasisync123-crypto/remote-work/raw/main/hero-eight.png"
+}
