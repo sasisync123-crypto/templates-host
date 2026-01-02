@@ -3,21 +3,21 @@
     {
       
       "id": 1,
-      "title": "Template 1",
+      "title": "TEMPLATE-1",
       "category": "Landing",
       "thumbnail": "https://library.keydesign.xyz/wp-content/uploads/2023/09/accordion-28.jpeg",
       "file": "hero-banner.json",
       "url": "https://raw.githubusercontent.com/sasisync123-crypto/templates-host/refs/heads/main/template-1.json"
     },
     { "id": 2,
-      "title": "Template 2",
+      "title": "TEMPLATE-2",
       "category": "Pricing",
       "thumbnail": "https://library.keydesign.xyz/wp-content/uploads/2023/09/accordion-28.jpeg",
       "file": "pricing-table.json",
       "url": "https://raw.githubusercontent.com/sasisync123-crypto/templates-host/refs/heads/main/template-1.json"
     },
     { "id": 2,
-      "title": "Template 3",
+      "title": "TEMPLATE-3",
       "category": "Pricing",
       "thumbnail": "https://library.keydesign.xyz/wp-content/uploads/2023/09/accordion-28.jpeg",
       "file": "pricing-table.json",
