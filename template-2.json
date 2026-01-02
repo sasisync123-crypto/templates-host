@@ -1,0 +1,82 @@
+{
+  "content": [
+    {
+      "id": "55bda030",
+      "settings": {
+        "ekit_section_parallax_multi_items": [],
+        "ekit_all_conditions_list": [],
+        "ekit_cursor_text_label": "Elementskit Cursor"
+      },
+      "elements": [
+        {
+          "id": "714c94ff",
+          "settings": {
+            "ekit_img_accordion_items": [
+              {
+                "ekit_img_accordion_title": "This is title",
+                "_id": "9c69311",
+                "ekit_img_accordion_bg": {
+                  "url": "https://github.com/sasisync123-crypto/remote-work/raw/main/hero-four.png",
+                  "id": "",
+                  "size": "",
+                  "source": "url"
+                },
+                "ekit_img_accordion_button_label": "Read More"
+              },
+              {
+                "ekit_img_accordion_icon": "icon icon-minus",
+                "_id": "49d14c0",
+                "ekit_img_accordion_bg": {
+                  "url": "https://github.com/sasisync123-crypto/remote-work/raw/main/karbon-contact-img.jpg",
+                  "id": "",
+                  "size": "",
+                  "source": "url"
+                },
+                "ekit_img_accordion_title": "Image accordion Title",
+                "ekit_img_accordion_button_label": "Read More"
+              },
+              {
+                "ekit_img_accordion_link": "#",
+                "_id": "d1735c0",
+                "ekit_img_accordion_bg": {
+                  "url": "https://github.com/sasisync123-crypto/remote-work/raw/main/portrait-woman-2.jpg",
+                  "id": "",
+                  "size": "",
+                  "source": "url"
+                },
+                "ekit_img_accordion_title": "Image accordion Title",
+                "ekit_img_accordion_button_label": "Read More"
+              },
+              {
+                "ekit_img_accordion_button_label": "Read More",
+                "_id": "9acd720",
+                "ekit_img_accordion_bg": {
+                  "url": "https://github.com/sasisync123-crypto/remote-work/raw/main/sec-image-one.png",
+                  "id": "",
+                  "size": "",
+                  "source": "url"
+                },
+                "ekit_img_accordion_title": "Image accordion Title"
+              }
+            ],
+            "ekit_all_conditions_list": [],
+            "ekit_adv_tooltip_content": "Tooltip Content.",
+            "ekit_cursor_text_label": "Elementskit Cursor"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "elementskit-image-accordion",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "TEMPLATE-2",
+  "type": "container",
+   "categories": ["one"],
+  "thumbnail": "https://github.com/sasisync123-crypto/remote-work/raw/main/portrait3.jpg"
+}
