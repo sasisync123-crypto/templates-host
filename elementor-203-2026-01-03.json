@@ -1,1 +1,41 @@
-{"content":[{"id":"116d0a25","settings":[],"elements":[{"id":"52987e9e","settings":{"image":{"url":"https:\/\/wpstudio-staging.syncfusion.com\/wp-content\/uploads\/2027\/01\/alienn-scrreen.jpg","id":202,"size":"","alt":"","source":"library"},"title_text":"This is the heading","description_text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."},"elements":[],"isInner":false,"widgetType":"image-box","elType":"widget"}],"isInner":false,"elType":"container"}],"page_settings":[],"version":"0.4","title":"2027","type":"container"}
+{
+  "content": [
+    {
+      "id": "5679f55a",
+      "settings": [],
+      "elements": [
+        {
+          "id": "727156b4",
+          "settings": {
+            "ekit_img_comparison_image_before": {
+              "url": "https://wpstudio-staging.syncfusion.com/wp-content/uploads/2027/01/alienn-scrreen.jpg",
+              "id": 202,
+              "size": "",
+              "alt": "",
+              "source": "library"
+            },
+            "ekit_img_comparison_label_before": "Before",
+            "ekit_img_comparison_image_after": {
+              "url": "https://wpstudio-staging.syncfusion.com/wp-content/uploads/2027/01/alienn-scrreen.jpg",
+              "id": 202,
+              "size": "",
+              "alt": "",
+              "source": "library"
+            },
+            "ekit_img_comparison_label_after": "After"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "elementskit-image-comparison",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "2027",
+  "type": "container"
+}
